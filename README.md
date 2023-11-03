@@ -11,7 +11,7 @@
 
 <p> The plan for the website with CSS is based on this wireframe.</p>
 
-<img title="Wireframe for site with CSS." src="docs/html-with-css.png">
+<img title="Wireframe for site with CSS." src="./docs/WireFrame.png">
 
 <h2>Technology used</h2>
 
