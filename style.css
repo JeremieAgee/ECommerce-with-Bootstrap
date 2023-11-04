@@ -2,3 +2,32 @@ html {
   height: 100%;
   width: 100%;
 }
+.dropdown-toggle{
+  background-color: red;
+}
+.dropdown-toggle:hover{
+  background-color: green;
+}
+body{
+  background-color: pink;
+}
+#header{
+  background-color: lightblue;
+}
+.overflow-scroll{
+  background-color: purple;
+  height: 800px;
+}
+#h1{
+  color: hotpink;
+  text-shadow: 1px 1px black;
+}
+.btn-primary{
+  background-color: pink;
+}
+.card{
+  background-color: lightblue;
+}
+img{
+  height: 500px;
+}

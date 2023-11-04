@@ -1,10 +1,10 @@
 
-<h1>Demo website for Southern Fried Chicken</h1>
+<h1>Demo website for Leyla's Closet</h1>
 
 <h2>About</h2>
 
 <p>
-  This is a demo website for Southern Fried Chicken. It has three pages, home, about, and menu. It features a table with fictitious prices, and a list of fictitous contact information. It also includes images on each page.
+  This is a demo website for Leyla's Closet. It has three pages, home, about, and menu. It features a table with fictitious prices, and a list of fictitous contact information. It also includes images on each page.
 </p>
 
 <h2> Wireframe </h2>
