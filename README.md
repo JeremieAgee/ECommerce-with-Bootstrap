@@ -1,4 +1,3 @@
-
 <h1>Demo website for Leyla's Closet</h1>
 
 <h2>About</h2>
